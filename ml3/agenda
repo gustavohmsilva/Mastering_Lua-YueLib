@@ -1,0 +1,4 @@
+#!/usr/bin/lua5.3
+local janela = require 'views'
+
+janela.principal()
